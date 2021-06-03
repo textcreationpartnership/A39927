@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short catechism declaring the practical use of the covenant-interest, and baptism of the infant-seed of believers being extracted out of two dialogues concerning that subject / written and published by Simon Ford ... ; with an epistle annexed by the Reverend Dr. Reynolds.</title>
+            <author>Ford, Simon, 1619?-1699.</author>
+         </titleStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39927</idno><idno type="EEBO-CITATION">12594250</idno>
+  <idno type="VID">64013</idno>
+  <idno type="EEBO-PROQUEST">2248566968</idno>
+  
+            <idno type="STC">Wing F1502</idno>
+            <idno type="STC">ESTC R13731</idno>
+            <idno type="OCLC">12594250</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39927)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64013)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 316:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short catechism declaring the practical use of the covenant-interest, and baptism of the infant-seed of believers being extracted out of two dialogues concerning that subject / written and published by Simon Ford ... ; with an epistle annexed by the Reverend Dr. Reynolds.</title>
+                  <author>Ford, Simon, 1619?-1699.</author>
+                  <author>Reynolds, Edward, 1599-1676.</author>
+               </titleStmt>
+               <extent>[2], 28, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.G. for John Rothwell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" ([4] p. at end) signed: Ed. Reynolds.</note>
+                  <note>Reproduction of original in Union Theologcial Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64013:1"/>
+            <pb facs="tcp:64013:1"/>
+            <p>A SHORT CATECHISM Declaring the <hi>PRACTICAL</hi> Use OF THE <hi>COVENANT-INTEREST,</hi> AND BAPTISM OF THE <hi>Infant-seed</hi> of Believers.</p>
+            <p>BEING Extracted out of two Dialogues concerning that Subject, writ<g ref="char:EOLhyphen"/>ten and published, By <hi>Simon Ford</hi> Minister of the Gospel.</p>
+            <p>With an <hi>Epistle</hi> annexed by the Reverend Dr. <hi>Reynolds.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. G.</hi> for <hi>John Rothwell</hi> at the <hi>Fountain,</hi> in Goldsmiths Row in <hi>Cheapside,</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:64013:2"/>
+            <pb n="1" facs="tcp:64013:2"/>
+            <head>A Short Catechism con<g ref="char:EOLhyphen"/>cerning the Use of In<g ref="char:EOLhyphen"/>fant-Baptism in relation to practice.</head>
+            <p>
+               <seg rend="decorInit">Q</seg>. <hi>WHat Religion do you professe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Christian Religion.</p>
+            <p>Q. <hi>What is a pro<g ref="char:EOLhyphen"/>fessed</hi> Christian?</p>
+            <p>
+               <hi>A.</hi> One that is outwardly and visibly in Covenant with Christ, and a member of his Church.</p>
+            <p>Q. <hi>Are you then such an one?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes.</p>
+            <p>Q. <hi>How long have you been so?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I was so, in right and title, e<g ref="char:EOLhyphen"/>ven before I was born; and I was
+<pb n="2" facs="tcp:64013:3"/> admitted into the actual possessi<g ref="char:EOLhyphen"/>on of this privilege in my <hi>Infant<g ref="char:EOLhyphen"/>Baptism.</hi>
+            </p>
+            <p>Q. <hi>Whence do you conclude that right before you were born?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From Gods Covenant with my forefathers, ever since any of them became Christians, derived to me through the loynes of my next Parents.</p>
+            <p>Q. <hi>Is there then such a Covenant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes.</p>
+            <p>Q. <hi>What Scripture have you for it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Gen. 17. 7. <hi>I will establish my Covenant between me and thee, and thy seed after thee in their generations, to be a God to thee, and to thy seed after thee.</hi>
+            </p>
+            <p>Q. <hi>But this Covenant was made with Abraham and his seed; how comes it then to belong to you, who are not of his seed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the grace of God, exten<g ref="char:EOLhyphen"/>ded by, and through Christ Jesus, unto the Gentiles, who (through him) are made <hi>fellow-heirs and of the
+<pb n="3" facs="tcp:64013:3"/> same body,</hi> with <hi>Abrahams</hi> natural seed, and <hi>partakers of his promise in Christ,</hi> Eph. 3. 6. <hi>upon whom the bles<g ref="char:EOLhyphen"/>sing of Abraham is come through Christ,</hi> Gal. 3. 14. and <hi>the promise be<g ref="char:EOLhyphen"/>longs to them, and their children,</hi> Act. 39.</p>
+            <p>Q. <hi>Of what benefit is that Covenant of forefathers to you?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Of much benefit many waies.</p>
+            <p>Q. <hi>Give me a particular account of some of them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> First of all, it doth very much further <hi>sanctification.</hi>
+            </p>
+            <p>Q. <hi>What part of</hi> sanctification?</p>
+            <p>
+               <hi>A.</hi> Both parts of it.</p>
+            <p>Q. <hi>Which are those?</hi>
+            </p>
+            <p>
+               <hi>A. Mortification of sin,</hi> and a <hi>new life unto holiness.</hi>
+            </p>
+            <p>Q. <hi>How doth it further</hi> mortifica<g ref="char:EOLhyphen"/>tion of sin?</p>
+            <p>
+               <hi>A.</hi> Because this Covenant enga<g ref="char:EOLhyphen"/>geth the seed of believers, as well as themselves, in a war with sin, (as the Israelites against Amalek) <hi>from generation to generation:</hi> and so they<note place="margin">Exod. 17. 16.</note>
+               <pb n="4" facs="tcp:64013:4"/> are all born souldiers of Christ, to stand up in their godly parents stead, and take up the same quarel against the Kingdome of sin and Satan.</p>
+            <p>Q. <hi>How doth it further our</hi> resurre<g ref="char:EOLhyphen"/>ction to newness of life?</p>
+            <p>
+               <hi>A.</hi> In the <hi>work</hi> it self, in the <hi>graces</hi> therein wrought, and in the <hi>duties</hi> performed by those graces.</p>
+            <p>Q. <hi>How doth it help towards the</hi> work it self?</p>
+            <p>
+               <hi>A.</hi> Because the bestrowing of san<g ref="char:EOLhyphen"/>ctifying grace upon the posterity is oftentimes the fruit of Gods Co<g ref="char:EOLhyphen"/>venant with their sorefathers: as that which is expressely included therein.</p>
+            <p>Q. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Out of <hi>Rom.</hi> 11. 29. where the Apostle proves that there shall be a second calling of the elect Jews, in the latter daies, to Christ, and grace, upon the account of Gods Covenant-love to them <hi>for their fathers sakes:</hi>
+            </p>
+            <pb n="5" facs="tcp:64013:4"/>
+            <p>And <hi>Deut. 30. 6. Isay.</hi> 54. 12. compared.</p>
+            <p>Q. <hi>What</hi> graces <hi>doth this Cove<g ref="char:EOLhyphen"/>nant, as it is conveighed to us from our forefathers, further, and promote?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Several graces; but princi<g ref="char:EOLhyphen"/>pally, <hi>faith</hi> and <hi>repentance.</hi>
+            </p>
+            <p>Q. <hi>How doth</hi> faith <hi>strengthen it self upon that Covenant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because it looks upon God, as a constant friend to the whole race from which such a believer is de<g ref="char:EOLhyphen"/>scended.</p>
+            <p>Q. <hi>But what encouragement doth God give us to look upon him in that manner?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Very much. For he is a God, that <hi>shews mercy to thousands of ge<g ref="char:EOLhyphen"/>nerations, of them that love him.</hi> Exo. 20. 6. And he speaks with a great deal of affection, many hundred of years after <hi>Abraham,</hi> concerning his posterity, upon his account; as the <hi>seed of Abraham his friend.</hi> Isa. 41. 8.</p>
+            <p>Q. <hi>What use do you your self make of that Covenant, to strengthen your faith?</hi>
+            </p>
+            <pb n="6" facs="tcp:64013:5"/>
+            <p>
+               <hi>A.</hi> Very much, both in <hi>spirituals,</hi> and <hi>temporals.</hi>
+            </p>
+            <p>Q. <hi>How in</hi> spirituals?</p>
+            <p>
+               <hi>A.</hi> Because I perswade my self, the prayers of some or other of my godly Ancestors, pleading that Covenant, may prevail with God to bestow grace upon me. <hi>Rom.</hi> 11. 28.</p>
+            <p>Q. <hi>How in</hi> temporals.</p>
+            <p>
+               <hi>A.</hi> Because I know there are ma<g ref="char:EOLhyphen"/>ny promises, concerning <hi>temporall</hi> mercies made to the seed of be<g ref="char:EOLhyphen"/>lievers in a peculiar manner.</p>
+            <p>Q. <hi>Name some of them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Psal. 25. 13. 37. 25, 26. Prov. 11. 21. Isa. 65. 23.</p>
+            <p>Q. <hi>Have you any examples of Gods people in Scripture, that ever strength<g ref="char:EOLhyphen"/>ned their faith upon the Covenant of their forefathers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, divers.</p>
+            <p>Q. <hi>Name some of them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 2 Chro. 20. 6. 2 Chro. 12. 18.</p>
+            <p>Q. <hi>What use do you make of that Co<g ref="char:EOLhyphen"/>venant, to promote</hi> repentance?</p>
+            <pb n="7" facs="tcp:64013:5"/>
+            <p>
+               <hi>A.</hi> I make use of it, (first) to af<g ref="char:EOLhyphen"/>fect me with the unkindness and Apostacy, or backsliding, where<g ref="char:EOLhyphen"/>with my sins are aggravated, from this consideration, that I offend that God who hath been a <hi>God</hi> to my Ancestors and me, from gene<g ref="char:EOLhyphen"/>ration to generation: and depart from that God, who hath shewed a constant friendship to the whole family whence I descend.</p>
+            <p>Q. <hi>And what</hi> other use <hi>make you of it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To beware of sin for the fu<g ref="char:EOLhyphen"/>ture; lest I <hi>forsake my fathers friend,</hi> (which God forbids, <hi>Pro.</hi> 27. 10.) and <hi>sel the inheritance of my fathers,</hi> (which <hi>Naboth</hi> would not 1 <hi>King▪</hi> 21. 3, 4.) especially such an inheri<g ref="char:EOLhyphen"/>tance as God, &amp; his Covenant are, a <hi>birth-right</hi> which none but a <hi>pro<g ref="char:EOLhyphen"/>fane Esau</hi> will part withall.</p>
+            <p>Q. <hi>What</hi> duties of a new life <hi>doth this Covenant of forefathers further you in?</hi>
+            </p>
+            <p>
+               <hi>A. First, duties of Religion,</hi> or the
+<pb n="8" facs="tcp:64013:6"/> immediate service of God.</p>
+            <p>Q. Doth the Scripture give us a<g ref="char:EOLhyphen"/>ny presidents or examples hereof?</p>
+            <p>
+               <hi>A.</hi> Yes, Act. 24. 14. Exod. 15. 2. Psal. 116. 16, 17.</p>
+            <p>Q. <hi>What other duties?</hi>
+            </p>
+            <p>
+               <hi>A. Duties of relation.</hi>
+            </p>
+            <p>Q. Shew how?</p>
+            <p>
+               <hi>A. First,</hi> as I am <hi>a child,</hi> I blesse God for those paren<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, that con<g ref="char:EOLhyphen"/>veighed this Covenant down to me; whereas I might have been the child of Heathen parents, and so born a stranger to the Covenant of promise as well as they.</p>
+            <p>Secondly, I think I can never do enough, to testifie my dutifulness to those parents, through whom I am entituled to such an estate, as Gods gracious Covenant.</p>
+            <p>3<seg rend="sup">ly</seg>. I resolve, if God make me <hi>a parent</hi> too, not to cut off that rela<g ref="char:EOLhyphen"/>tion between God and my posteri<g ref="char:EOLhyphen"/>ty, (as far as I can preserve it) which my Ancestors, and immedi<g ref="char:EOLhyphen"/>ate parents have preserved to me;
+<pb n="9" facs="tcp:64013:6"/> but maintain it, and propag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te it, by keeping the faith of Christ un<g ref="char:EOLhyphen"/>tainted my self, and deriving it to them that descend from me.</p>
+            <p>Q. <hi>You said, a while since that you were put into possession of that right, which this Covenant gave you by your</hi> Baptism in Infancy: <hi>What can you say to justifie your</hi> baptism at that <hi>Age?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That seeing I was born visi<g ref="char:EOLhyphen"/>bly in Covenant with God, and a member of his Church, (as hath been beforesaid) it was my just right, to be admitted into it by baptism, as soon as I was born.</p>
+            <p>Q. <hi>Whyso?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because Baptism was appoin<g ref="char:EOLhyphen"/>ted for the seal of admission, to let all those persons solemnly into the Church, who visibly belong there<g ref="char:EOLhyphen"/>unto. Gal. 3. 27. 1 Cor. 12. 13. Act. 2. 38, 39.</p>
+            <p>Q. <hi>But had it not been more advan<g ref="char:EOLhyphen"/>tage to you, to have staid for Baptism, till you came to years of discretion, and
+<pb n="10" facs="tcp:64013:7"/> understood what was done to you, and required from you?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, but I rather bless God for divers precious <hi>uses</hi> which I make, and <hi>advantages</hi> which I re<g ref="char:EOLhyphen"/>ceive, from the consideration of my Baptism as it was then administred to me, when I knew not what was done to me, or what God required of me; &amp; those over &amp; above what ever Baptism administred at riper years could have yielded me.</p>
+            <p>Q. <hi>What are those</hi> Uses <hi>which you make of it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The first use I make of it is, that I draw from thence Argu<g ref="char:EOLhyphen"/>ments and encouragements to re<g ref="char:EOLhyphen"/>pentance, and conversion from sin to God.</p>
+            <p>Q. <hi>How doth your Infant-Baptism help forward</hi> repentance, and conversi<g ref="char:EOLhyphen"/>on by way of Argument?</p>
+            <p>
+               <hi>A.</hi> Because it affords arguments of deep conviction of, and humi<g ref="char:EOLhyphen"/>liation for sin.</p>
+            <p>Q. <hi>How doth your Infant-Baptism</hi> convince you of sin?</p>
+            <pb n="11" facs="tcp:64013:7"/>
+            <p>
+               <hi>A.</hi> By the understanding im<g ref="char:EOLhyphen"/>provement of that which Baptism with water signifies, and applying it to that Infant-age wherein it is administred.</p>
+            <p>Q. <hi>What doth Baptism signifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The ingrafting of such a per<g ref="char:EOLhyphen"/>son into Christ, to receive from him pardon of sinnes through his bloud, and sanctification of nature from his Spirit; which bloud and Spirit are both represented by the <hi>water in Baptism.</hi>
+            </p>
+            <p>Q. <hi>What</hi> convictions <hi>can you draw from hence, when you see a little Infant Baptized, or consider that you your self were Baptized an Infant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I am hereby convinced, what I and every one are by nature.</p>
+            <p>Q. <hi>Why what are you and every one by</hi> nature?</p>
+            <p>
+               <hi>A.</hi> Even guilty of original fin, and so Children of wrath, liable from the womb to all manner of misery here, and in Hell for ever.</p>
+            <p>Q. <hi>What, in Infant-Baptism is it
+<pb n="12" facs="tcp:64013:8"/> that convinceth you here of?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because I see therein that the youngest Infant hath need of the bloud of Christ, for the par<g ref="char:EOLhyphen"/>don and purging away of his sin in justification; and the Spirit of Christ for the renewing of his heart, and cleansing him from sin by sanctification; because there is no need of washing where there is no stain, or filth to be washed away.</p>
+            <p>Q. <hi>What farther doth it</hi> convince <hi>you of?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That there is free pardon in the bloud of Christ held forth to those that have no worthyness at all of their own to plead for it seeing hereby, I see in the water of Baptism, the bloud of Christ is extended to Infants that cannot so much as desire it'.</p>
+            <p>Q. <hi>What doth it farther</hi> convince <hi>you of?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It convinceth me, whither I must go for grace to renew my
+<pb n="13" facs="tcp:64013:8"/> heart, and enable me to believe and repent; seeing the regene<g ref="char:EOLhyphen"/>rating grace of the Spirit, is also represented in the water of Bap<g ref="char:EOLhyphen"/>tism; and the applying of Bap<g ref="char:EOLhyphen"/>tism to Infants, shews that they have it not planted in nature, (as reason is, which puts it self forth in ripe years;) but must wholly receive it from another Fountain, or else they can never obtain it.</p>
+            <p>Q. <hi>What</hi> encouragement <hi>have you from your Infant-Baptism, to turn from sin to God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That I see therein, not only the utter want of grace, in the pu<g ref="char:EOLhyphen"/>rest humane nature, and the ne<g ref="char:EOLhyphen"/>cessity of fetching it from Gods Sanctifying Spirit; but behold God engaged by Covenant to bestow it.</p>
+            <p>Q. <hi>Why so?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because Infant-Baptism, in a speciall manner, seales the pro<g ref="char:EOLhyphen"/>mises of the first grace, the grace
+<pb n="14" facs="tcp:64013:9"/> that makes a new heart, &amp; works faith and repentance: which promises cannot so properly be said to be sealed by B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptism at riper years; seeing these graces are required of all such in order thereunto.</p>
+            <p>Q. <hi>What other Arguments draw you from your Infant-Baptism for</hi> hu<g ref="char:EOLhyphen"/>miliation, <hi>as well as conviction?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. Because I am sensible how un<g ref="char:EOLhyphen"/>kindly I have used that God by sinning and lifting up my heel against him thus long, who hath taken me into his Family, and bred me up under his wing from an Infont, (<hi>Ezek.</hi> 16. from v. 1. to 34.) Which mercy was so much the greater, because it was an eminent piece of preventing love, whereby he laid hold upon mee to make me his, before I could either deserve or desire it.</p>
+            <p>2. Because I am now sensible of my back-sliding from that Co<g ref="char:EOLhyphen"/>venant
+<pb n="15" facs="tcp:64013:9"/> which was then stricken between God and me, when I could not (but by his gracious ac<g ref="char:EOLhyphen"/>ceptance) be any wayes capable of such a mercy.</p>
+            <p>Q. <hi>How then comes that Govenant to bind you, who were, it seemes, at that time, not consenting thereun<g ref="char:EOLhyphen"/>to?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because it was, for my bene<g ref="char:EOLhyphen"/>fit, by my Parents, (or Sureties in their stead) entered into in my name. Even as when a Father pur<g ref="char:EOLhyphen"/>chaseth a Copy-hold, or other E<g ref="char:EOLhyphen"/>state in a Childes name, the Child who is thereby entituled to the benefit, is bound also to the con<g ref="char:EOLhyphen"/>ditions contained in the deed or conveighance.</p>
+            <p>Q. <hi>What</hi> other uses <hi>do you make of your Infant-Baptism?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I am thereby <hi>warned</hi> to take heed of renouncing that God, who is a sworn friend to me, as I am a sworn servant to him from the ve<g ref="char:EOLhyphen"/>ry Cradle: and giving my self to
+<pb n="16" facs="tcp:64013:10"/> sin, to which I have been so long a sworn enemy.</p>
+            <p>Q. <hi>Have you yet any</hi> farther use <hi>to make of it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes</p>
+            <p>Q. <hi>What is it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The gathering to my self a <hi>particular assurance</hi> of Gods speciall love to my soul, in the pardon of my sinnes, and <hi>speciall arguments</hi> to depend upon God for all other mercies.</p>
+            <p>Q <hi>How gather you</hi> assurance <hi>of the pardon of sins from thence?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Pecause, as Baptism in its own nature, sealeth the pardon of sins to the person receiving it, so Infant. Baptism in a speciall man<g ref="char:EOLhyphen"/>ner encourageth me against believe it, by strengthening me against some of the greatest discouragements.</p>
+            <p>Q. <hi>What are those</hi> discourage<g ref="char:EOLhyphen"/>ments?</p>
+            <p>
+               <hi>A.</hi> Greatnesse of sin, and perso<g ref="char:EOLhyphen"/>nall unworthiness.</p>
+            <p>Q. <hi>How do you by Infant-Baptism,
+<pb n="17" facs="tcp:64013:10"/> incourage your self to believe the par<g ref="char:EOLhyphen"/>don of your sins, notwithstanding the</hi> greatness of them?</p>
+            <p>
+               <hi>A.</hi> Because God in my Infant-Baptism sealed pardon of sins to me, before they were committed, upon condition of repentance, though he foresaw all their aggra<g ref="char:EOLhyphen"/>vations, which would render them <hi>exceeding sinful.</hi>
+            </p>
+            <p>Q. <hi>How do you thereby encourage your self against the discouragement of</hi> personal unworthinesse?</p>
+            <p>
+               <hi>A.</hi> By considering that when God sealed that pardon to me in the water of Baptism, I was not capable of any thing, that might, in the greatest charity, be accoun<g ref="char:EOLhyphen"/>ted the least degree of worthiness: and therefore seeing I cannot pos<g ref="char:EOLhyphen"/>sibly, be more utterly void of per<g ref="char:EOLhyphen"/>sonal worth now, than I was at that time of administration, I en<g ref="char:EOLhyphen"/>courage my self to plead that Co<g ref="char:EOLhyphen"/>venant of pardon though I be un<g ref="char:EOLhyphen"/>worthy, which when I was every
+<pb n="18" facs="tcp:64013:11"/> jot as unworthy, was by Gods gra<g ref="char:EOLhyphen"/>cious act sealed to me.</p>
+            <p>Q. <hi>In what particulars doth In<g ref="char:EOLhyphen"/>fant-baptism strengthen your</hi> depen<g ref="char:EOLhyphen"/>dance on God.</p>
+            <p>
+               <hi>A.</hi> In all things necessary to <hi>life</hi> and <hi>godliness,</hi> that I shall at any time stand in need of.</p>
+            <p>Q. <hi>How so?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because Baptism gave me admission into Gods family from an Infant, and made the Lord my God in Covenant from my mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers breasts.</p>
+            <p>Q. <hi>What do you conclude from thence.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God will not forget his <hi>ancient loving kindenesses;</hi> but will be the same God even to <hi>Old-age,</hi> that he engaged himself to be in my tenders years, and will not cast off one that hath been his hous<g ref="char:EOLhyphen"/>hold-servant from a child.</p>
+            <p>Q. <hi>You have shewn me what</hi> uses <hi>you can make of Infant-Baptism: what</hi> advantages <hi>have you had by it, even
+<pb n="19" facs="tcp:64013:11"/> from infaucy and childhood?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Many, and many waies.</p>
+            <p>Q. <hi>Name some of them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The <hi>great advantage</hi> of all is this: That I was thereby, from a child, admitted solemnly as a visible member into Christs Church.</p>
+            <p>Q. <hi>And wherein were you privile<g ref="char:EOLhyphen"/>ged thereby.</hi>
+            </p>
+            <p>
+               <hi>A. First,</hi> in that, being actually admitted into Christs fold, I have had (from a child) a legal right to his word and the instructions thereof, wherewith he feeds his Lambs according to their capaci<g ref="char:EOLhyphen"/>ty, as well as greater sheep, <hi>Rom.</hi> 3. 2.</p>
+            <p>Q. <hi>Wherein else?</hi>
+            </p>
+            <p>
+               <hi>A. Secondly,</hi> in that I was there<g ref="char:EOLhyphen"/>by committed to the special care of his Pastors, the Ministers of the Church, and had right to expect the benefit of their labours, which in some sort, I have found.</p>
+            <p>Q. <hi>Wherein farther?</hi>
+            </p>
+            <pb n="20" facs="tcp:64013:12"/>
+            <p>
+               <hi>A. Thirdly,</hi> in that I was thereby intituled to all the prayers of the whole Church of Christ upon earth, which she powreth out for her own members in special.</p>
+            <p>Q. <hi>Wherein besides?</hi>
+            </p>
+            <p>
+               <hi>A. Fourthly,</hi> in that I have been, and am one of those to whom the promises of conversion by Ordi<g ref="char:EOLhyphen"/>nances, and all the promises of the first grace are peculiarly made; seeing all promises of that kinde are made to the visible Church, and its members only, <hi>Jer.</hi> 31. 33.</p>
+            <p>Q. <hi>Wherein lastly?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In that I was by Infant bap<g ref="char:EOLhyphen"/>tism committed to the whole Church as my Guardians, to watch over me, and care for me, that I want nothing necessary for <hi>life</hi> or <hi>godlinesse.</hi>
+            </p>
+            <p>Q. <hi>Have you yet any</hi> farther ad<g ref="char:EOLhyphen"/>vantages <hi>from Infant-baptism?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, I have enjoyed many temporall mercies, and gracious providences, by vertue of the Co<g ref="char:EOLhyphen"/>venant
+<pb n="21" facs="tcp:64013:12"/> sealed to me by God in my infancy; which (seeing all favours from God to persons in Covenant, flow from that Covenant,) I look upon as Covenant-mercies, and blesse God for them accordingly.</p>
+            <p>Q. <hi>You have shewn me what</hi> uses, and advantages <hi>Infant baptism af<g ref="char:EOLhyphen"/>fords you in</hi> relation to your own person; <hi>Is it not useful also in relati<g ref="char:EOLhyphen"/>on to</hi> communion with others?</p>
+            <p>
+               <hi>A.</hi> Yes, in a very large measure.</p>
+            <p>Q. <hi>As how?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It mightily furthers the duties <hi>of Relation</hi> to others; and is a <hi>con<g ref="char:EOLhyphen"/>siderable improvement of the number of the visible Church.</hi>
+            </p>
+            <p>Q. <hi>What</hi> duties of Relation <hi>doth it further?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Duties of <hi>Family-relation</hi> and <hi>Church-communion.</hi>
+            </p>
+            <p>Q. <hi>How doth it further the duties of</hi> family relation?</p>
+            <p>
+               <hi>A.</hi> Because it quickens <hi>children,</hi> and <hi>parents,</hi> to certain mutual du<g ref="char:EOLhyphen"/>ties.</p>
+            <pb n="22" facs="tcp:64013:13"/>
+            <p>Q. <hi>What duty doth it quicken you to</hi> as a child?</p>
+            <p>
+               <hi>A.</hi> As I am a <hi>child,</hi> I am thereby stirred up to <hi>obey those parents, in the Lord,</hi> and for the Lords sake, who took care to dedicate me solemn<g ref="char:EOLhyphen"/>ly to the Lord, and enter me into the Lords family so soon as I was born into theirs.</p>
+            <p>Q. <hi>But if hereafter you your self become a parent to children of your own, what duty would the consideration of your Infant baptism quicken you to, as a</hi> Parent?</p>
+            <p>
+               <hi>A.</hi> If ever I become a parent to children, the consideration of mine own Baptism in infancy, and the benefits thereof, will prevail with me to do for my children, what (through Gods mercy) my parents did for me: to wit, to present them to Baptism also, in their infancy, and thereby to en<g ref="char:EOLhyphen"/>ter them solemnly into his family, to which I my self belong.</p>
+            <p>Q. <hi>And when you have so tendred
+<pb n="23" facs="tcp:64013:13"/> them to Baptism, is there any</hi> farther use <hi>which you could, or any godly pa<g ref="char:EOLhyphen"/>rent may make of the Baptism so ad<g ref="char:EOLhyphen"/>ministred to his Infant-children?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, very much.</p>
+            <p>Q. <hi>Shew me wherein?</hi>
+            </p>
+            <p>
+               <hi>A. First,</hi> a parent that hath pre<g ref="char:EOLhyphen"/>sented his children to Baptism, is solemnly engaged in the presence of God, and his Church, to train up his children to Gods holy wor<g ref="char:EOLhyphen"/>ship and service, according to the principles of Christian Religion.</p>
+            <p>Q. <hi>Wherein else?</hi>
+            </p>
+            <p>
+               <hi>A. Secondly,</hi> such a parent may plead for spiritual graces and tem<g ref="char:EOLhyphen"/>poral mercys for his children, with a greater assurance of saith, seeing he can plead a personal Covenant sealed from God to them, which comprehends all these mercies.</p>
+            <p>Q. <hi>Wherein thirdly?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In that (as every godly pa<g ref="char:EOLhyphen"/>rent may and must conclude com<g ref="char:EOLhyphen"/>fortably concerning the salvation of his children, if they dye before
+<pb n="24" facs="tcp:64013:14"/> they shew, by the fruits of an un<g ref="char:EOLhyphen"/>godly conversation, that they have forfeited their interest in that Covenant which God accepted them into in their infancy: so) if such children were baptized, he is bound to bel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eve it the more strongly, because of the strength which Gods seal addes to his Co<g ref="char:EOLhyphen"/>venant.</p>
+            <p>Q. <hi>But hath an</hi> Anabaptist Pa<g ref="char:EOLhyphen"/>rent <hi>no ground to believe the</hi> salvati<g ref="char:EOLhyphen"/>on of his child dying in infancy?</p>
+            <p>
+               <hi>A.</hi> According to his doctrine, he hath no more ground than he hath to believe the salvation of an Heathens child.</p>
+            <p>Q. <hi>How doth that appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because it is Gods Covenant of grace and that alone, which <hi>brings salvation</hi> to any: and there<g ref="char:EOLhyphen"/>fore we can have no hopes concer<g ref="char:EOLhyphen"/>ning the salvation of any whom we believe not to be within that Covenant, <hi>Ephes.</hi> 2. 12. Now the A<g ref="char:EOLhyphen"/>nabaptists allow their children no
+<pb n="25" facs="tcp:64013:14"/> more interest in the Covenant of grace than heathens children have.</p>
+            <p>Q. <hi>What if a Christian parents baptized little ones out-live him, and be Orphans, with what comfort may he dye and leave his children, from this doctrine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He may with more comfort dye, and leave them possessed of a <hi>Covenant of Grace</hi> sealed to them by God, and <hi>sacramentally married</hi> to Jesus Christ; than if he left them deeds and conveighances of never so great value, and security, for a temporal estate; or disposed of to the richest matches in the world.</p>
+            <p>Q. <hi>You have shewed me how</hi> Infant<g ref="char:EOLhyphen"/>baptism <hi>furthers the duties of</hi> family<g ref="char:EOLhyphen"/>relation: <hi>shew me how it furthers the</hi> duties of Church-communion too.</p>
+            <p>
+               <hi>A. First,</hi> it would, if duly con<g ref="char:EOLhyphen"/>sidered, promote charity, whiles we look upon all such as are bap<g ref="char:EOLhyphen"/>tized in infancy, as Church-mem<g ref="char:EOLhyphen"/>bers,
+<pb n="26" facs="tcp:64013:15"/> and hold communion with them, as they grow and appear fit for it as with Church-members, till they be cast out for any offences deserving that censure.</p>
+            <p>
+               <hi>Secondly,</hi> it is a strong obligation upon the whole Church to look to the education of such baptized lit<g ref="char:EOLhyphen"/>tle ones, as those who are fellow<g ref="char:EOLhyphen"/>members with themselves, in case their Parents, or others intrusted with them, should neglect it.</p>
+            <p>Q. <hi>What say you concerning the</hi> improvement of the number of the visible Church, <hi>by Infant-bap<g ref="char:EOLhyphen"/>tism?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That all Christians have cause to blesse God for preserving the outward profession of Christi<g ref="char:EOLhyphen"/>anity, over all the world, by the practice of Infant-baptism, seeing millions of persons are hereby en<g ref="char:EOLhyphen"/>gaged to God, (at least visibly) in a solemn Covenant, who would hardly have been perswaded to oblige themselves to him so far, in
+<pb n="27" facs="tcp:64013:15"/> case they had been left to the choice of their own hearts till years of discretion: and many pa<g ref="char:EOLhyphen"/>rents by presenting their children thereunto, are engaged to train them up in the Religion wherein they are baptized, and look upon it as a matter of conscience so to do, upon that account.</p>
+            <p>Q. <hi>What say you therefore concer<g ref="char:EOLhyphen"/>ning your</hi> own Infant-baptism <hi>upon the consideration of the whole matter?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I say, that I humbly blesse the Lord who hath been my God in Covenant from my mothers belly: and do resolve, by the as<g ref="char:EOLhyphen"/>sistance of his grace, to improve my early relation to him, and the Sacrament in which it was then sealed up unto me, to those holy, and comfortable intents and pur<g ref="char:EOLhyphen"/>poses before mentioned; and lead my life after the tenour of that holy and solemn obligation. Which obligation I do, in the presence of God, and his people,
+<pb n="28" facs="tcp:64013:16"/> at this time, seriously own, and take upon me, by mine own per<g ref="char:EOLhyphen"/>sonal consent to what was then done on my behalf, by others. And to help me herein, I desire the benefit of all the Lords peoples prayers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="note">
+            <pb facs="tcp:64013:16"/>
+            <p>THe Reverend Author hath written on this subject a large Book called the <hi>Practical use of Baptism.</hi>
+            </p>
+            <p>And fince hath added a second part, wherein many Doubts are clear<g ref="char:EOLhyphen"/>ed, and many Heads inlarged. that the Reader may more profitably im<g ref="char:EOLhyphen"/>prove this weighty Ordinance of Bap<g ref="char:EOLhyphen"/>tism.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:64013:17"/>
+            <pb facs="tcp:64013:17"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a special com<g ref="char:EOLhyphen"/>mendation of any Theological do<g ref="char:EOLhyphen"/>ctrine, and one very good way of vindicating it from the preju<g ref="char:EOLhyphen"/>dices and exceptions of those that reject it, to discover the excellent uses which may be made of it, and clearly to deduce such wholsome practical infe<g ref="char:EOLhyphen"/>rences as do naturally lie couch<g ref="char:EOLhyphen"/>ed in it. Our Saviour hath
+<pb facs="tcp:64013:18"/> taught us to judge of the Tree by the fruits, <hi>for no man gathers grapes of thornes, or figgs of thistles.</hi> The Reverend Au<g ref="char:EOLhyphen"/>thor of this little Catechism, hath therein given an experi<g ref="char:EOLhyphen"/>ment hereof, and as he hath else<g ref="char:EOLhyphen"/>where defended the doctrine, so doth he here by Arguments <hi>a posteriori,</hi> drawn from the holy and comfortable fruits and ef<g ref="char:EOLhyphen"/>ffects thereof, endeavour to re<g ref="char:EOLhyphen"/>concile it to the judgement of dis<g ref="char:EOLhyphen"/>senters. A course which I wish he had as much leasure, as abili<g ref="char:EOLhyphen"/>ties to undertake in some other profound and abstruse Contro<g ref="char:EOLhyphen"/>versies, wherein the truth is of<g ref="char:EOLhyphen"/>ten by tender palats rejected, up<g ref="char:EOLhyphen"/>on pretence of invidious Conse<g ref="char:EOLhyphen"/>quences
+<pb facs="tcp:64013:18"/> attending it, as if it were injurious to the practise of piety, and obstructive to the power of godliness. The Lord raise up continually in his Church men of healing spirits, who by their meek, learned and prudent en<g ref="char:EOLhyphen"/>deavours, may through Gods blessing thereupon, gather into one the divided judgments and affections, of as many as love the Lord Jesus insincerity.</p>
+            <closer>
+               <signed>Thine in the Lord, Ed. Reynolds.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Ed. Calamy.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
